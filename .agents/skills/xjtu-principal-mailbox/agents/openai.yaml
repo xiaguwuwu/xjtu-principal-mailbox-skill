@@ -1,0 +1,7 @@
+interface:
+  display_name: "XJTU 校领导信箱"
+  short_description: "起草、确认并提交西交大校领导信箱"
+  default_prompt: "Use $xjtu-principal-mailbox to draft and submit a message to the XJTU principal mailbox."
+
+policy:
+  allow_implicit_invocation: true
