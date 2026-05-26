@@ -1,4 +1,4 @@
-![校领导信箱 Skill 操作信息图](assets/workflow-infographic.png)
+
 
 # XJTU Principal Mailbox Skill
 
