@@ -4,7 +4,9 @@
 <img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/ac8a9a36-cb2f-496f-ae8b-8fb69afb106e" />
 
 
-这个仓库保存了一个 Codex skill，用于协助起草、确认并通过西安交通大学校领导信箱提交建议信、咨询、反馈或求助类来信。
+这个仓库保存了一个 skill，用于协助起草、确认并通过西安交通大学校领导信箱提交建议信、咨询、反馈或求助类来信。
+
+推荐使用 Codex 进行操作，本 skills 在 Codex 里已通过测试。
 
 ## 能做什么
 
@@ -37,9 +39,17 @@
 
 真实使用时，本地还会有一个 `references/user-profile.md`，用于保存稳定的基础联系信息。这个文件包含个人信息，已被 `.gitignore` 排除，不应该提交到 GitHub。
 
+## 安装方法
+
+1. （推荐）直接在 Agent 里发送下面这句话：
+```text
+安装 https://github.com/xiaguwuwu/xjtu-principal-mailbox-skill 这个仓库里的skills
+```
+2. fork 仓库到你的目录下面
+
 ## 使用方法
 
-1. 在 Codex 中提出请求，例如：
+1. 在 Agent 中提出请求，例如：
 
 ```text
 使用校长信箱 skill 发送一封建议信
