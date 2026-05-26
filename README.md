@@ -1,6 +1,8 @@
 
-
 # XJTU Principal Mailbox Skill
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/ac8a9a36-cb2f-496f-ae8b-8fb69afb106e" />
+
 
 这个仓库保存了一个 Codex skill，用于协助起草、确认并通过西安交通大学校领导信箱提交建议信、咨询、反馈或求助类来信。
 
